@@ -1,4 +1,4 @@
-##CodeBook for the dataset wear_sum_mean.csv
+# CodeBook for the dataset wear_sum_mean.csv
 
 The final product is a tidy data set summarising certain physical quantities in the [UCI HAR dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), and the following codebook is in reference to that data set. 
 
