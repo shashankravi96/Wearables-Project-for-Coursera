@@ -8,4 +8,4 @@ The testing and training data are then combined to form the dataset wear. Which 
 
 After which, the activity labels have been changed from numbers 1-6, to that in activity_labels.txt, and only the columns that represent the mean or standard deviation of a particular physical quantity are selected, and these variables are given their appropriate names, as in variables_wear.txt.
 
-Then, the final product is a tidy dataset with means of all the remaining columns grouped first by activity and then by subject. The final data set is wear_sum_mean.csv. 
+Then, the final product is a tidy dataset with means of all the remaining columns grouped first by activity and then by subject. The final data set is wear_sum_mean.txt. 
